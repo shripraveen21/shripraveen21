@@ -67,3 +67,11 @@ Passionate CSE student with a strong foundation in machine learning, distributed
 ### GitHub Activity Graph
 
 [![Shri Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shripraveen21&bg_color=3b0c25&color=ddc5dc&line=c897c5&point=fbefef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
