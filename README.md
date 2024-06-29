@@ -54,9 +54,9 @@ Passionate CSE student with a strong foundation in machine learning, distributed
 </p>
 
 ![Shri Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shripraveen21&theme=dark&show_icons=true&&hide=issues,contribs)
-
+[![HackerRank Profile](https://github.com/shripraveen21/shripraveen21/blob/main/hackerrank%20profile.png)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/shripraveen21?ext=contest&theme=dark)](https://leetcode.com/shripraveen21)
 
 [![Shri Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shripraveen21&bg_color=3b0c25&color=ddc5dc&line=c897c5&point=fbefef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![HackerRank Profile](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shripraveen47)
+
